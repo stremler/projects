@@ -1,0 +1,18 @@
+MortgageTracker.ods
+   This spreadsheet can be used to track a fixed-rate mortgage
+   (where the extra payment is not pro-rated to the actual payment
+   time), allowing you to do predict what the mortgage balance
+   and payoff time will be.
+
+   I use this tool to track when I make a payment, for how much,
+   and to decide on just how much extra I'm going to pay down
+   in order to make the balance figures dance to my tune.
+
+MortgageCompare.ods
+   This spreadsheet can be used to compare and contrast fixed-rate
+   mortgages, so that when the broker throws a barrage of numbers
+   at you in a rush, you can instead make an informed decision by
+   comparion your actual options.
+
+   This spreadsheet is basically multiple copies of the tracker
+   spreadsheet, with a summary page giving an overview.
